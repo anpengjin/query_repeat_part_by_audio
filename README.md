@@ -50,3 +50,5 @@ target_advise_list of 72.wav: ['70', '66']
 # 参考
 [1]. https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition  
 [2]. https://zhuanlan.zhihu.com/p/75360272  
+[3]. https://github.com/lukemcraig/AudioSearch
+[4]. [An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
